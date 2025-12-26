@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/Roadmap/Advance Redering I/RayTracingWeekend/OneWeedken/out/build/debug",
+  "command": "C:\\PROGRA~1\\MICROS~1\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DCMAKE_INTDIR=\\\"Debug\\\" /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\oneWeekend.dir\\Debug\\main.cpp.obj /FdCMakeFiles\\oneWeekend.dir\\Debug\\ /FS -c \"D:\\Roadmap\\Advance Redering I\\RayTracingWeekend\\OneWeedken\\main.cpp\"",
+  "file": "D:/Roadmap/Advance Redering I/RayTracingWeekend/OneWeedken/main.cpp",
+  "output": "D:/Roadmap/Advance Redering I/RayTracingWeekend/OneWeedken/out/build/debug/CMakeFiles/oneWeekend.dir/Debug/main.cpp.obj"
+},
+{
+  "directory": "D:/Roadmap/Advance Redering I/RayTracingWeekend/OneWeedken/out/build/debug",
+  "command": "C:\\PROGRA~1\\MICROS~1\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DCMAKE_INTDIR=\\\"Release\\\" /DWIN32 /D_WINDOWS /GR /EHsc /O2 /Ob2 /DNDEBUG -std:c++17 -MD /FoCMakeFiles\\oneWeekend.dir\\Release\\main.cpp.obj /FdCMakeFiles\\oneWeekend.dir\\Release\\ /FS -c \"D:\\Roadmap\\Advance Redering I\\RayTracingWeekend\\OneWeedken\\main.cpp\"",
+  "file": "D:/Roadmap/Advance Redering I/RayTracingWeekend/OneWeedken/main.cpp",
+  "output": "D:/Roadmap/Advance Redering I/RayTracingWeekend/OneWeedken/out/build/debug/CMakeFiles/oneWeekend.dir/Release/main.cpp.obj"
+},
+{
+  "directory": "D:/Roadmap/Advance Redering I/RayTracingWeekend/OneWeedken/out/build/debug",
+  "command": "C:\\PROGRA~1\\MICROS~1\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" /DWIN32 /D_WINDOWS /GR /EHsc /Zi /O2 /Ob1 /DNDEBUG -std:c++17 -MD /FoCMakeFiles\\oneWeekend.dir\\RelWithDebInfo\\main.cpp.obj /FdCMakeFiles\\oneWeekend.dir\\RelWithDebInfo\\ /FS -c \"D:\\Roadmap\\Advance Redering I\\RayTracingWeekend\\OneWeedken\\main.cpp\"",
+  "file": "D:/Roadmap/Advance Redering I/RayTracingWeekend/OneWeedken/main.cpp",
+  "output": "D:/Roadmap/Advance Redering I/RayTracingWeekend/OneWeedken/out/build/debug/CMakeFiles/oneWeekend.dir/RelWithDebInfo/main.cpp.obj"
+}
+]
