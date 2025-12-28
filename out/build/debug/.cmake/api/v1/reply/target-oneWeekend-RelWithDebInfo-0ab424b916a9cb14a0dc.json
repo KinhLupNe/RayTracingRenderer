@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "Release/oneWeekend.exe"
+			"path" : "RelWithDebInfo/oneWeekend.exe"
 		},
 		{
-			"path" : "Release/oneWeekend.pdb"
+			"path" : "RelWithDebInfo/oneWeekend.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -43,7 +43,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "/DWIN32 /D_WINDOWS /GR /EHsc /O2 /Ob2 /DNDEBUG -std:c++17 -MD"
+					"fragment" : "/DWIN32 /D_WINDOWS /GR /EHsc /Zi /O2 /Ob1 /DNDEBUG -std:c++17 -MD"
 				}
 			],
 			"language" : "CXX",
@@ -67,11 +67,11 @@
 		"commandFragments" : 
 		[
 			{
-				"fragment" : "/DWIN32 /D_WINDOWS /GR /EHsc /O2 /Ob2 /DNDEBUG -MD",
+				"fragment" : "/DWIN32 /D_WINDOWS /GR /EHsc /Zi /O2 /Ob1 /DNDEBUG -MD",
 				"role" : "flags"
 			},
 			{
-				"fragment" : "/machine:x64 /INCREMENTAL:NO",
+				"fragment" : "/machine:x64 /debug /INCREMENTAL",
 				"role" : "flags"
 			},
 			{
@@ -107,7 +107,8 @@
 			[
 				1,
 				2,
-				3
+				3,
+				4
 			]
 		}
 	],
@@ -132,6 +133,11 @@
 		{
 			"backtrace" : 1,
 			"path" : "ray.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "hittable.h",
 			"sourceGroupIndex" : 1
 		}
 	],
