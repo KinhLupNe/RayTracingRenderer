@@ -46,7 +46,7 @@ build cmake_object_order_depends_target_oneWeekend_RELEASE: phony || .
 build CMakeFiles\oneWeekend.dir\Release\main.cpp.obj: CXX_COMPILER__oneWeekend_unscanned_Release D$:\Roadmap\Advance$ Redering$ I\RayTracingWeekend\OneWeedken\main.cpp || cmake_object_order_depends_target_oneWeekend_RELEASE
   CONFIG = Release
   DEFINES = -DCMAKE_INTDIR=\"Release\"
-  FLAGS = /DWIN32 /D_WINDOWS /GR /EHsc /O2 /Ob2 /DNDEBUG -std:c++17 -MD
+  FLAGS = /DWIN32 /D_WINDOWS /GR /EHsc /O2 /Ob2 /DNDEBUG -std:c++20 -MD
   OBJECT_DIR = CMakeFiles\oneWeekend.dir\Release
   OBJECT_FILE_DIR = CMakeFiles\oneWeekend.dir\Release
   TARGET_COMPILE_PDB = CMakeFiles\oneWeekend.dir\Release\

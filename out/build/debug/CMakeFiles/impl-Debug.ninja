@@ -46,7 +46,7 @@ build cmake_object_order_depends_target_oneWeekend_DEBUG: phony || .
 build CMakeFiles\oneWeekend.dir\Debug\main.cpp.obj: CXX_COMPILER__oneWeekend_unscanned_Debug D$:\Roadmap\Advance$ Redering$ I\RayTracingWeekend\OneWeedken\main.cpp || cmake_object_order_depends_target_oneWeekend_DEBUG
   CONFIG = Debug
   DEFINES = -DCMAKE_INTDIR=\"Debug\"
-  FLAGS = /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd
+  FLAGS = /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd
   OBJECT_DIR = CMakeFiles\oneWeekend.dir\Debug
   OBJECT_FILE_DIR = CMakeFiles\oneWeekend.dir\Debug
   TARGET_COMPILE_PDB = CMakeFiles\oneWeekend.dir\Debug\

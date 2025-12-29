@@ -1,24 +1,14 @@
 #ifndef RTWEEKEND_H
 #define RTWEEKEND_H
 
-#include <cmath>
-#include <iostream>
-#include <limits>
-#include <memory>
+#include "commons.h" // IWYU pragma: export
 
-using std::make_shared;
-using std::shared_ptr;
+#include "color.h" // IWYU pragma: export
 
-const double infinity = std::numeric_limits<double>::infinity();
-const double pi = 3.1415926535897932385;
+#include "interval.h" // IWYU pragma: export
 
-inline double degrees_to_radians(double degrees)
-{
-  return degrees * pi / 180.0;
-}
+#include "ray.h" // IWYU pragma: export
 
-#include "color.h"
-#include "ray.h"
-#include "vec3.h"
+#include "vec3.h" // IWYU pragma: export
 
 #endif // !DEBUG

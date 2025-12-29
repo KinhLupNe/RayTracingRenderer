@@ -46,7 +46,7 @@ build cmake_object_order_depends_target_oneWeekend_RELWITHDEBINFO: phony || .
 build CMakeFiles\oneWeekend.dir\RelWithDebInfo\main.cpp.obj: CXX_COMPILER__oneWeekend_unscanned_RelWithDebInfo D$:\Roadmap\Advance$ Redering$ I\RayTracingWeekend\OneWeedken\main.cpp || cmake_object_order_depends_target_oneWeekend_RELWITHDEBINFO
   CONFIG = RelWithDebInfo
   DEFINES = -DCMAKE_INTDIR=\"RelWithDebInfo\"
-  FLAGS = /DWIN32 /D_WINDOWS /GR /EHsc /Zi /O2 /Ob1 /DNDEBUG -std:c++17 -MD
+  FLAGS = /DWIN32 /D_WINDOWS /GR /EHsc /Zi /O2 /Ob1 /DNDEBUG -std:c++20 -MD
   OBJECT_DIR = CMakeFiles\oneWeekend.dir\RelWithDebInfo
   OBJECT_FILE_DIR = CMakeFiles\oneWeekend.dir\RelWithDebInfo
   TARGET_COMPILE_PDB = CMakeFiles\oneWeekend.dir\RelWithDebInfo\

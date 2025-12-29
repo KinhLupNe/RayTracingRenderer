@@ -1,40 +1,21 @@
 # ninja log v7
-26	1023	7885960853453609	CMakeFiles/oneWeekend.dir/Debug/main.cpp.obj	91f67860c737d270
-1024	1289	7885960863430317	Debug/oneWeekend.exe	97204f7c4450a4bc
-2	225	7886429271258714	CMakeFiles/impl-Debug.ninja	46ebdaee9f51158c
-2	225	7886429271268718	build-Debug.ninja	46ebdaee9f51158c
-2	225	7886429271268718	CMakeFiles/impl-Release.ninja	46ebdaee9f51158c
-2	225	7886429271268718	build-Release.ninja	46ebdaee9f51158c
-2	225	7886429271278723	CMakeFiles/impl-RelWithDebInfo.ninja	46ebdaee9f51158c
-2	225	7886429271278723	build-RelWithDebInfo.ninja	46ebdaee9f51158c
-2	225	7886429271258714	build.ninja	46ebdaee9f51158c
-2	225	7886429271228655	D:/Roadmap/Advance Redering I/RayTracingWeekend/OneWeedken/out/build/debug/cmake_install.cmake	46ebdaee9f51158c
-58	248	7886429271278723	CMakeFiles/impl-Debug.ninja	46ebdaee9f51158c
-58	248	7886429271278723	build-Debug.ninja	46ebdaee9f51158c
-58	248	7886429271278723	CMakeFiles/impl-Release.ninja	46ebdaee9f51158c
-58	248	7886429271278723	build-Release.ninja	46ebdaee9f51158c
-58	248	7886429271278723	CMakeFiles/impl-RelWithDebInfo.ninja	46ebdaee9f51158c
-58	248	7886429271278723	build-RelWithDebInfo.ninja	46ebdaee9f51158c
-58	248	7886429271278723	build.ninja	46ebdaee9f51158c
-58	248	7886429271278723	D:/Roadmap/Advance Redering I/RayTracingWeekend/OneWeedken/out/build/debug/cmake_install.cmake	46ebdaee9f51158c
-26	502	7886429272527651	CMakeFiles/oneWeekend.dir/Debug/main.cpp.obj	91f67860c737d270
-502	682	7886429277292354	Debug/oneWeekend.exe	97204f7c4450a4bc
-2	521	7886435777109174	CMakeFiles/oneWeekend.dir/Debug/main.cpp.obj	91f67860c737d270
-2	528	7886437110851565	CMakeFiles/oneWeekend.dir/Debug/main.cpp.obj	91f67860c737d270
-529	673	7886437116121211	Debug/oneWeekend.exe	97204f7c4450a4bc
-24	552	7886438385398154	CMakeFiles/oneWeekend.dir/Debug/main.cpp.obj	91f67860c737d270
-553	706	7886438390688139	Debug/oneWeekend.exe	97204f7c4450a4bc
-20	549	7886438828960580	CMakeFiles/oneWeekend.dir/Debug/main.cpp.obj	91f67860c737d270
-550	704	7886438834245933	Debug/oneWeekend.exe	97204f7c4450a4bc
-22	543	7886439093928835	CMakeFiles/oneWeekend.dir/Debug/main.cpp.obj	91f67860c737d270
-544	697	7886439099140796	Debug/oneWeekend.exe	97204f7c4450a4bc
-28	600	7886439458932412	CMakeFiles/oneWeekend.dir/Debug/main.cpp.obj	91f67860c737d270
-601	762	7886439464663891	Debug/oneWeekend.exe	97204f7c4450a4bc
-21	564	7886440228055362	CMakeFiles/oneWeekend.dir/Debug/main.cpp.obj	91f67860c737d270
-565	729	7886440233497764	Debug/oneWeekend.exe	97204f7c4450a4bc
-27	1002	7886450103381731	CMakeFiles/oneWeekend.dir/Debug/main.cpp.obj	91f67860c737d270
-1002	1168	7886450113137816	Debug/oneWeekend.exe	97204f7c4450a4bc
-20	525	7886450398637094	CMakeFiles/oneWeekend.dir/Debug/main.cpp.obj	91f67860c737d270
-525	674	7886450403694240	Debug/oneWeekend.exe	97204f7c4450a4bc
-21	520	7886450673771549	CMakeFiles/oneWeekend.dir/Debug/main.cpp.obj	91f67860c737d270
-520	665	7886450678761007	Debug/oneWeekend.exe	97204f7c4450a4bc
+21	959	7886761255392362	CMakeFiles/oneWeekend.dir/Debug/main.cpp.obj	a3b40665ccc6951f
+960	1138	7886761264777558	Debug/oneWeekend.exe	97204f7c4450a4bc
+24	219	7886802302784965	CMakeFiles/impl-Debug.ninja	46ebdaee9f51158c
+24	219	7886802302800018	build-Debug.ninja	46ebdaee9f51158c
+24	219	7886802302800018	CMakeFiles/impl-Release.ninja	46ebdaee9f51158c
+24	219	7886802302810087	build-Release.ninja	46ebdaee9f51158c
+24	219	7886802302810087	CMakeFiles/impl-RelWithDebInfo.ninja	46ebdaee9f51158c
+24	219	7886802302820112	build-RelWithDebInfo.ninja	46ebdaee9f51158c
+24	219	7886802302784965	build.ninja	46ebdaee9f51158c
+24	219	7886802302749421	D:/Roadmap/Advance Redering I/RayTracingWeekend/OneWeedken/out/build/debug/cmake_install.cmake	46ebdaee9f51158c
+20	213	7886802302820112	CMakeFiles/impl-Debug.ninja	46ebdaee9f51158c
+20	213	7886802302820112	build-Debug.ninja	46ebdaee9f51158c
+20	213	7886802302820112	CMakeFiles/impl-Release.ninja	46ebdaee9f51158c
+20	213	7886802302820112	build-Release.ninja	46ebdaee9f51158c
+20	213	7886802302820112	CMakeFiles/impl-RelWithDebInfo.ninja	46ebdaee9f51158c
+20	213	7886802302820112	build-RelWithDebInfo.ninja	46ebdaee9f51158c
+20	213	7886802302820112	build.ninja	46ebdaee9f51158c
+20	213	7886802302820112	D:/Roadmap/Advance Redering I/RayTracingWeekend/OneWeedken/out/build/debug/cmake_install.cmake	46ebdaee9f51158c
+40	837	7886802304168235	CMakeFiles/oneWeekend.dir/Debug/main.cpp.obj	a3b40665ccc6951f
+838	999	7886802312147348	Debug/oneWeekend.exe	97204f7c4450a4bc
