@@ -16,6 +16,7 @@ rtweekend.h
 interval.h
 commons.h
 camera.h
+material.h
 )
 
 
